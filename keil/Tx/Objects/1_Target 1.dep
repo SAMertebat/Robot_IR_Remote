@@ -1,0 +1,27 @@
+Dependencies for Project '1', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060750::V5.06 update 6 (build 750)::.\ARMCC
+F (.\main.c)(0x6765F308)(--c99 -c --cpu Cortex-M0+ -g -O1 --apcs=interwork --split_sections -I .\Include-I.\RTE\_Target_1-IC:\Users\UPCO\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\UPCO\AppData\Local\Arm\Packs\Keil\STM32G0xx_DFP\1.5.0\Drivers\CMSIS\Device\ST\STM32G0xx\Include-D__UVISION_VERSION="539" -D_RTE_ -DSTM32G030xx -D_RTE_-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (.\Include\stm32g0xx.h)(0x62965CE4)
+I (.\Include\stm32g030xx.h)(0x60D1A8D4)
+I (C:\Users\UPCO\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm0plus.h)(0x626F8A26)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5EC7C354)
+I (C:\Users\UPCO\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F8A26)
+I (C:\Users\UPCO\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F8A26)
+I (C:\Users\UPCO\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F8A26)
+I (C:\Users\UPCO\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626F8A26)
+I (.\Include\system_stm32g0xx.h)(0x60D1A8D4)
+I (.\Include\mb-crc.h)(0x620663A2)
+F (.\Include\mb-crc.c)(0x620663A2)(--c99 -c --cpu Cortex-M0+ -g -O1 --apcs=interwork --split_sections -I .\Include-I.\RTE\_Target_1-IC:\Users\UPCO\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\UPCO\AppData\Local\Arm\Packs\Keil\STM32G0xx_DFP\1.5.0\Drivers\CMSIS\Device\ST\STM32G0xx\Include-D__UVISION_VERSION="539" -D_RTE_ -DSTM32G030xx -D_RTE_-o .\objects\mb-crc.o --omf_browse .\objects\mb-crc.crf --depend .\objects\mb-crc.d)
+I (Include\mb-crc.h)(0x620663A2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5EC7C354)
+F (RTE/Device/STM32G030F6Px/startup_stm32g030xx.s)(0x60D1A8D4)(--cpu Cortex-M0+ -g --apcs=interwork -I.\RTE\_Target_1-IC:\Users\UPCO\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\UPCO\AppData\Local\Arm\Packs\Keil\STM32G0xx_DFP\1.5.0\Drivers\CMSIS\Device\ST\STM32G0xx\Include--pd "__UVISION_VERSION SETA 539" --pd "_RTE_ SETA 1" --pd "STM32G030xx SETA 1" --pd "_RTE_ SETA 1"--list .\listings\startup_stm32g030xx.lst --xref -o .\objects\startup_stm32g030xx.o --depend .\objects\startup_stm32g030xx.d)
+F (RTE/Device/STM32G030F6Px/system_stm32g0xx.c)(0x60D1A8D4)(--c99 -c --cpu Cortex-M0+ -g -O1 --apcs=interwork --split_sections -I .\Include-I.\RTE\_Target_1-IC:\Users\UPCO\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\UPCO\AppData\Local\Arm\Packs\Keil\STM32G0xx_DFP\1.5.0\Drivers\CMSIS\Device\ST\STM32G0xx\Include-D__UVISION_VERSION="539" -D_RTE_ -DSTM32G030xx -D_RTE_-o .\objects\system_stm32g0xx.o --omf_browse .\objects\system_stm32g0xx.crf --depend .\objects\system_stm32g0xx.d)
+I (.\Include\stm32g0xx.h)(0x62965CE4)
+I (.\Include\stm32g030xx.h)(0x60D1A8D4)
+I (C:\Users\UPCO\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm0plus.h)(0x626F8A26)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5EC7C354)
+I (C:\Users\UPCO\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F8A26)
+I (C:\Users\UPCO\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F8A26)
+I (C:\Users\UPCO\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F8A26)
+I (C:\Users\UPCO\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626F8A26)
+I (.\Include\system_stm32g0xx.h)(0x60D1A8D4)
